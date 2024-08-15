@@ -1,0 +1,8 @@
+https://www.scirp.org/journal/paperinformation?paperid=92179
+https://www.devglan.com/online-tools/aes-encryption-decryption
+https://www.geeksforgeeks.org/advanced-encryption-standard-aes/
+https://www.geeksforgeeks.org/polynomial-division-using-linked-list/
+https://en.wikipedia.org/wiki/Rijndael_S-box
+https://www.simplilearn.com/tutorials/cryptography-tutorial/aes-encryption
+https://en.wikipedia.org/wiki/Rijndael_S-box
+https://braincoke.fr/blog/2020/08/the-aes-decryption-algorithm-explained/#the-inverse-cipher
