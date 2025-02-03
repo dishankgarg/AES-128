@@ -1,5 +1,5 @@
 # AES-128 Encryption
-Encryption of 16 Bytes od Data
+Encryption of 16 Bytes of Data
 Screen Shot of my code
 ---------------------------------------------------------
 ![image](https://github.com/user-attachments/assets/cf45af52-7868-4982-a45e-c0365c223a04)
